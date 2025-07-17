@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+li{
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+    color: black;
+    display: inline;
+}
+
+a{
+    color: black;
+}
+
+ul{
+    padding: 0;
+}
+
+h1, h3, p, a{
+    font-family:'Courier New', Courier, monospace;
+}
+
+h3{
+    font-size: 20px;
+}
+
+p{
+    font-size: 15px;
+}
+
+.center{
+    text-align: center;
+}
